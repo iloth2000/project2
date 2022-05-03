@@ -6,7 +6,7 @@
       <div class="col-md-12">
         <div class="card">
           <div class="card-header card-header-primary">
-            <h4 class="card-title ">Quản lí loại xe</h4>
+            <h4 class="card-title ">Quản Lí Loại Xe</h4>
             <h3 class="card-category"> <i>Danh sách loại xe</i></h3>
           </div>
           <div class="card-body">
