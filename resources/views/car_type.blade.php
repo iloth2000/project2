@@ -14,10 +14,10 @@
               <table class="table">
                 <thead class=" text-primary">
                   <th>
-                    Mã
+                    Mã xe
                   </th>
                   <th>
-                    Loại xe
+                    Loại Xe 
                   </th>
                   <th>
                   
